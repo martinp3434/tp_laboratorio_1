@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1586742398 source:c:\users\diego\documents\utn\prog 1\proyecto\proyecto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Libreira.h"
+
+1586742454 c:\users\diego\documents\utn\prog 1\proyecto\proyecto\libreira.h
+	<stdio.h>
+	<stdlib.h>
+
+1586976616 source:c:\users\diego\documents\utn\prog 1\trabajos practicos\tp1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Suma.h"
+	"Resta.h"
+	"Multiplicacion.h"
+	"Division.h"
+	"Factorial.h"
+
+1586975885 c:\users\diego\documents\utn\prog 1\trabajos practicos\tp1\tp1\suma.h
+	<stdio.h>
+	<stdlib.h>
+
+1586976049 c:\users\diego\documents\utn\prog 1\trabajos practicos\tp1\tp1\resta.h
+	<stdio.h>
+	<stdlib.h>
+
+1586976137 c:\users\diego\documents\utn\prog 1\trabajos practicos\tp1\tp1\multiplicacion.h
+	<stdio.h>
+	<stdlib.h>
+
+1586976462 c:\users\diego\documents\utn\prog 1\trabajos practicos\tp1\tp1\division.h
+	<stdio.h>
+	<stdlib.h>
+
+1586975945 c:\users\diego\documents\utn\prog 1\trabajos practicos\tp1\tp1\factorial.h
+	<stdio.h>
+	<stdlib.h>
+
