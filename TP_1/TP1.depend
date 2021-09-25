@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1632606639 source:c:\users\diego\documents\utn\prog 1\nueva carpeta\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MatLib.h"
+
+1632607788 c:\users\diego\documents\utn\prog 1\nueva carpeta\tp1\matlib.h
+	<stdio.h>
+	<stdlib.h>
+
